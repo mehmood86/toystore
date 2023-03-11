@@ -42,5 +42,5 @@ The project will start and you can access it in your web browser at http://local
 Configuration
 You can configure the project by modifying the application.properties file located in the src/main/resources directory. In this file, you can change the database settings, server port, and other properties.
 
-Credits
+## Credits
 This project was created by Mehmood Ghaffar. If you have any questions or suggestions, please feel free to contact me at engr_mehmood86@hotmail.com.
